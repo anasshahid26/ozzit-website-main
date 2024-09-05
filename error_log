@@ -1,0 +1,2 @@
+[11-Mar-2014 10:02:59 UTC] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/ozzitcre/public_html/subscribe.php on line 20
+[11-Mar-2014 10:36:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ozzitcre/public_html/subscribe.php:3) in /home/ozzitcre/public_html/subscribe.php on line 34
